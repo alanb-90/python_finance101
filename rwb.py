@@ -129,3 +129,5 @@ print("Max Loss: "+ maxL)
 print("Total return over "+str(ng+nl)+ " trades: "+ str(totalR)+"%" )
 #print("Example return Simulating "+str(n)+ " trades: "+ str(nReturn)+"%" )
 print()
+
+# https://www.youtube.com/watch?v=hngHA9Jjbjc&list=PLPfme2mwsQ1FQhH1icKEfiYdLSUHE-Wo5&index=3
